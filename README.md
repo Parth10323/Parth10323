@@ -1,2 +1,2 @@
-# Parth10323
+# Parth10323.github.io
 coursera PGA_wk1
